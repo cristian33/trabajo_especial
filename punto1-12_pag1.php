@@ -8,6 +8,6 @@
         <option value="2" >1001-3000</option>
         <option value="3" >>3000</option>
         <br>
-        <input type="submit" name= "consultar">
+        <input type="submit" name= "consultarrrtttt">
     </select>
 </form>
